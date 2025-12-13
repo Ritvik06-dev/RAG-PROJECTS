@@ -1,0 +1,1 @@
+# install -q sentence-transformers faiss-cpu transformers accelerate datasets
